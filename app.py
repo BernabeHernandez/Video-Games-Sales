@@ -6,7 +6,7 @@ import numpy as np
 
 app = Flask(__name__)
 
-# Configurar el registro
+# Configurar el registr
 logging.basicConfig(level=logging.DEBUG)
 
 # Cargar el modelo entrenado, el scaler y el ordinal encoder
